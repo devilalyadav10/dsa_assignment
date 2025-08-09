@@ -40,18 +40,6 @@ is provided by the user at run time. Then, perform the following tasks:
 (d) Display the total number of comparisons and swaps (if applicable) performed by the
 chosen algorithm.
 
-
-
-## Compilation and Execution
-- Compile each C program using a C compiler (e.g., `gcc prog_<q>.c -o prog_<q>`).
-- Run the executable (e.g., `./prog_<q>`).
-- Refer to `doc_<q>.md` for sample outputs and detailed explanations.
-
-## Submission Details
-- **Repository Name**: `dsa_assignment`
-- **Version Control**: Commits made gradually with descriptive messages.
-- **Academic Integrity**: All code and documentation are original, adhering to academic honesty standards.
-
 ## Notes
 - Each program is modular, well-documented, and tested with provided or sample inputs.
 - Documentation files (`doc_<q>.md`) include data structure definitions, function descriptions, main method organization, and sample outputs.
